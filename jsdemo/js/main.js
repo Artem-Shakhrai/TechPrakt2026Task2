@@ -34,9 +34,9 @@ let arr = [
         "age": 19,
         "title": "description"
     },{
-        "name": "Serhii",
+        "name": "Artem",
         "age": 19,
-        "title": "description"
+        "title": "main"
     },
 ];
 
